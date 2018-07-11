@@ -611,7 +611,7 @@ canvas_nest: false
 three_waves: true
 
 # canvas_lines
-canvas_lines: false
+canvas_lines: true
 
 # canvas_sphere
 canvas_sphere: false

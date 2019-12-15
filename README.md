@@ -1,27 +1,5 @@
 ## jekyll-theme-H2O
 
-基于Jekyll的博客主题模板，简洁轻量。
-
-另外，还有此主题的[Ghost版本](https://github.com/eastpiger/ghost-theme-H2O) by [eastpiger](https://github.com/eastpiger)
-
-### Preview
-
-#### [在线预览 Live Demo →](http://liaokeyu.com/)
-
-![](screenshot/jekyll-theme-h2o-realhome.jpg)
-
-![](screenshot/jekyll-theme-h2o-realm.png)
-
-如果你喜欢这个博客模板，请在右上角star一下，非常感谢～
-
-If you like this theme or using it, please give a ⭐️ for motivation ;)
-
-如果想体验手机浏览效果，可以扫一下二维码：
-
-![](screenshot/1494404591.png)
-
-Using your smartphone to scan the QR Code
-
 ### Features 特性
 
 #### CN
@@ -37,20 +15,6 @@ Using your smartphone to scan the QR Code
 - 文章标签索引
 - 博客文章搜索
 - 复制文章内容自动添加版权
-
-#### EN
-
-- Code highlight
-- Night mode
-- Disqus Comment System
-- Theme color: Blue & Pink
-- Hero Patterns
-- Responsive design
-- SNS Icon
-- Title SEO
-- Tags system
-- Search
-- Copyright text on copy event
 
 ### Usage 快速开始
 
